@@ -1,0 +1,5 @@
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\Receiver1\obj\Debug\net8.0\Receiver1.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\Receiver1\obj\Debug\net8.0\Receiver1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\Receiver1\obj\Debug\net8.0\Receiver1.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\Receiver1\obj\Debug\net8.0\Receiver1.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\Receiver1\obj\Debug\net8.0\Receiver1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\ValidationService\obj\Debug\net8.0\ValidationService.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\ValidationService\obj\Debug\net8.0\ValidationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\ValidationService\obj\Debug\net8.0\ValidationService.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\ValidationService\obj\Debug\net8.0\ValidationService.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\CP05\ValidationService\obj\Debug\net8.0\ValidationService.csproj.CoreCompileInputs.cache
